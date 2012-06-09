@@ -1,0 +1,9 @@
+MIDlet-1: Speech Recognizer,/18x18.png,VoiceRecordMidlet
+MIDlet-Jar-Size: 12457
+MIDlet-Jar-URL: SpeechRecognizer.jar
+MIDlet-Name: Speech Recognizer
+MIDlet-Permissions: javax.microedition.io.Connector.http, javax.microedition.io.Connector.https, javax.microedition.media.control.RecordControl
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
