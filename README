@@ -1,5 +1,5 @@
 This is a project which recognizes Russian speech using Google services as it was described on
 
-[http://mikepultz.com/2011/03/accessing-google-speech-api-chrome-11/] (<http://mikepultz.com/2011/03/accessing-google-speech-api-chrome-11/>)
+http://mikepultz.com/2011/03/accessing-google-speech-api-chrome-11/
 
 The host platform is J2ME, and AMR is used instead of Flac or Speex suggested in the article.
